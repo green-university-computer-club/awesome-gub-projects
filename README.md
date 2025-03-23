@@ -6,17 +6,14 @@ Welcome to the **University Projects Hub**! This repository showcases innovative
 
 ## 📂 Project List
 
-### 🔹 Computer Science & Engineering
-- [Project Name](project-link) - Short description (Author: @GitHubUsername)
-- [Project Name](project-link) - Short description (Author: @GitHubUsername)
-
-### 🔹 Electronics & Robotics
-- [Project Name](project-link) - Short description (Author: @GitHubUsername)
-- [Project Name](project-link) - Short description (Author: @GitHubUsername)
-
-### 🔹 Design & Multimedia
-- [Project Name](project-link) - Short description (Author: @GitHubUsername)
-- [Project Name](project-link) - Short description (Author: @GitHubUsername)
+| Category | Project Name | Description | Author |
+|----------|-------------|-------------|--------|
+| **Computer Science & Engineering** | [Project Name](project-link) | Short description | @GitHubUsername |
+| **Computer Science & Engineering** | [Project Name](project-link) | Short description | @GitHubUsername |
+| **Electronics & Robotics** | [Project Name](project-link) | Short description | @GitHubUsername |
+| **Electronics & Robotics** | [Project Name](project-link) | Short description | @GitHubUsername |
+| **Design & Multimedia** | [Project Name](project-link) | Short description | @GitHubUsername |
+| **Design & Multimedia** | [Project Name](project-link) | Short description | @GitHubUsername |
 
 *(More categories can be added as needed!)*
 
