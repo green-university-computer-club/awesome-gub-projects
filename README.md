@@ -8,7 +8,7 @@ Welcome to the **University Projects Hub**! This repository showcases innovative
 
 | Category | Project Name | Description | Author |
 |----------|-------------|-------------|--------|
-| **Computer Science & Engineering** | [Project Name](project-link) | Short description | @GitHubUsername |
+|**Computer Science & Engineering** | [Algorithms Visualizer](https://github.com/BakulBd/algorithms-visualizer) |Watch  algorithms come alive on this React website with smooth, colourful animations. Meet AlgoBot, a friendly AI helper by DeepSEEK, ready to answer your questions about algorithms instantly in clear, simple words. | @BakulBd |
 | **Computer Science & Engineering** | [Project Name](project-link) | Short description | @GitHubUsername |
 | **Electronics & Robotics** | [Project Name](project-link) | Short description | @GitHubUsername |
 | **Electronics & Robotics** | [Project Name](project-link) | Short description | @GitHubUsername |
