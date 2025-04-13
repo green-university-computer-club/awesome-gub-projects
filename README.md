@@ -6,16 +6,9 @@ Welcome to the **University Projects Hub**! This repository showcases innovative
 
 ## 📂 Project List
 
-| Category | Project Name | Description | Author |
-|----------|-------------|-------------|--------|
-|**Computer Science & Engineering** | [Algorithms Visualizer](https://github.com/BakulBd/algorithms-visualizer) |Watch  algorithms come alive on this React website with smooth, colourful animations. Meet AlgoBot, a friendly AI helper by DeepSEEK, ready to answer your questions about algorithms instantly in clear, simple words. | @BakulBd |
-| **Computer Science & Engineering** | [Project Name](project-link) | Short description | @GitHubUsername |
-| **Electronics & Robotics** | [Project Name](project-link) | Short description | @GitHubUsername |
-| **Electronics & Robotics** | [Project Name](project-link) | Short description | @GitHubUsername |
-| **Design & Multimedia** | [Project Name](project-link) | Short description | @GitHubUsername |
-| **Design & Multimedia** | [Project Name](project-link) | Short description | @GitHubUsername |
-
-*(More categories can be added as needed!)*
+| Category | Project Name | Description | Author(s) | Studen ID(s)
+|----------|-------------|-------------|--------|-----------|
+|**Computer Science & Engineering** | [Algorithms Visualizer](https://github.com/BakulBd/algorithms-visualizer) |Watch  algorithms come alive on this React website with smooth, colourful animations. Meet AlgoBot, a friendly AI helper by DeepSEEK, ready to answer your questions about algorithms instantly in clear, simple words. | [@BakulBd](https://github.com/BakulBd) | 232002184 |
 
 ---
 
@@ -25,7 +18,7 @@ We welcome contributions from students! Follow these steps to add your project:
 
 ### 🛠 Steps to Add Your Project:
 1. **Fork** this repository.
-2. **Clone** your fork to your local machine:
+2. **Clone** your fork to your local machine or you can simplify edit the README.md from your browser.
    ```sh
    git clone https://github.com/your-username/university-projects-hub.git
    ```
@@ -46,7 +39,7 @@ We welcome contributions from students! Follow these steps to add your project:
 ---
 
 ## ✅ Guidelines for Listing a Project
-- The project must be created by a student (or group) from **[Your University Name]**.
+- The project must be created by a student (or group) from **Green University of Bangladesh**.
 - Provide a short but clear description.
 - Link to the project repository (if available) or relevant files.
 - Follow the contribution format to keep things organized.
@@ -54,6 +47,6 @@ We welcome contributions from students! Follow these steps to add your project:
 ---
 
 ## 💬 Need Help?
-If you have any questions or issues, feel free to open an [Issue](https://github.com/your-repo/issues) or reach out to us!
+If you have any questions or issues, feel free to open an [Issue](https://github.com/green-university-computer-club/gub-projects/issues) or reach out to us!
 
 Happy coding! 🎉
