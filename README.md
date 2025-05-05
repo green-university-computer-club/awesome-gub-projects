@@ -9,7 +9,7 @@ Welcome to the **University Projects Hub**! This repository showcases innovative
 | Category | Project Name | Description | Author(s) | Studen ID(s)
 |----------|-------------|-------------|--------|-----------|
 |**Computer Science & Engineering** | [Algorithms Visualizer](https://github.com/BakulBd/algorithms-visualizer) |Watch  algorithms come alive on this React website with smooth, colourful animations. Meet AlgoBot, a friendly AI helper by DeepSEEK, ready to answer your questions about algorithms instantly in clear, simple words. | [@BakulBd](https://github.com/BakulBd) | 232002184 |
-
+|**Computer Science & Engineering** |[Hospital Resource Allocation](https://github.com/MrMajharul/Hospital_ResourceAllocation) |A simple, interactive web-based simulator that helps allocate limited hospital resources (like beds and ventilators) to patients based on urgency, survival probability, and available resources using algorithmic strategies.|[Majharul Islam](https://github.com/MrMajharul) | 232002256|
 ---
 
 ## 📜 How to Contribute
